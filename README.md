@@ -1,2 +1,1 @@
-# Privacy-Policy
-GooglePlayStore Privacy Policy
+None
