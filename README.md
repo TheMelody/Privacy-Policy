@@ -1,1 +1,1 @@
-降低AWS流量
+Reduce AWS traffic
